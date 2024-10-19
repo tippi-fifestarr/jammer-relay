@@ -1,6 +1,8 @@
 # jammer-relay
 fork this, upload your robot info
 
+![Untitled 1 (1)](https://github.com/user-attachments/assets/1c1ff6e6-2291-4395-b149-537053724b23)
+
 **Artist First:**
 
 - Start by building a "Jammer Robot" using materials on the table.
