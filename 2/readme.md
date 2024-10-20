@@ -8,5 +8,5 @@
 
 ### Screenshots:
 
-![Loans Home](/team2.jpg) _Screenshot 1
+![Styro Bob](/team2.jpg) _Screenshot 1
 (Styro-Bob)_
