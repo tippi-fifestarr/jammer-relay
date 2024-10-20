@@ -1,4 +1,19 @@
 # jammer-relay
+
+experimental, immersive experience in team building at Cyberjam 2024 opening ceremony
+
+## results
+
+[First, team 4](./4) became Duncan.
+
+[Shortly after, Styro-bob was born](./2) in the fiery depths of team 2.
+
+Team 3 [transformed into Sparkey](./Sparkey), third.
+
+Finally, the great one [Tony emerged from team 1](./1).
+
+## instructions for jammers
+
 fork this, upload your robot info
 
 ![Untitled 1 (1)](https://github.com/user-attachments/assets/1c1ff6e6-2291-4395-b149-537053724b23)
