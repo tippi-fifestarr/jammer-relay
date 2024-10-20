@@ -7,19 +7,19 @@ fork this, upload your robot info
 
 - Start by building a "Jammer Robot" using materials on the table.
 - You have 5 minutes to complete your design.
-- Once done, pass your robot to the musician. 
+- Once done, pass your robot to the musician.
 
 **Musician Second:**
 
 - Create a beat using the toy recorders that matches the vibe of the robot.
 - You have 5 minutes.
-- Pass the task to the hardware engineer once finished.  
+- Pass the task to the hardware engineer once finished.
 
 **Hardware Engineer Third:**
 
 - Rig the robot with lights and the microphone
 - You have 5 minutes to rig everything together.
-- Pass the “rigged” robot to the wildcard. 
+- Pass the “rigged” robot to the wildcard.
 
 **Wildcard Forth:**
 
@@ -33,4 +33,4 @@ fork this, upload your robot info
 - Add the robot’s name, description, and picture to your teams folder.
 - Submit a pull request (PR)
 
- Wildcard: Once you have completed your task with the software engineer, place the robot on the stage chair.
+Wildcard: Once you have completed your task with the softwareengineer, place the robot on the stage chair.
