@@ -33,4 +33,4 @@ fork this, upload your robot info
 - Add the robot’s name, description, and picture to your teams folder.
 - Submit a pull request (PR)
 
-Wildcard: Once you have completed your task with the softwareengineer, place the robot on the stage chair.
+Wildcard: Once you have completed your task with the software engineer, place the robot on the stage chair.
